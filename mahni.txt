@@ -1,4 +1,2 @@
-revert test
-
 Namiqin sozlerini burada yaziriq
 Aygün öz sözlərini əlavə edir
